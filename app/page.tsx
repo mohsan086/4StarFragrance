@@ -108,9 +108,9 @@ export default async function HomePage() {
             <div className="space-y-4">
               <h4 className="font-semibold">Contact</h4>
               <ul className="space-y-2 text-sm text-muted-foreground">
-                <li>Karachi, Pakistan</li>
+                <li>Rawalpindi, Pakistan</li>
                 <li>contact@4starfragrance.com</li>
-                <li>+92 300 1234567</li>
+                <li>+92 370 5168493</li>
               </ul>
             </div>
           </div>
